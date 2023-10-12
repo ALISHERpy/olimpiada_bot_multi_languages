@@ -1,0 +1,4 @@
+(
+    CHOOSE,GET_Full_name,GET_numer,BEFORE_START_test,WAITING_ANSWER,CHECK_BEFORE_TEST
+
+) = range(6)
