@@ -146,7 +146,7 @@ def Checking_answers(update: Update, context: CallbackContext) -> None:
             msg = f"👤User Test ishladi🔻\n\nkim:{u.first_name} {u.last_name}\nUsername: @{u.username}\nTel 📱 +{u.phone_number}\nTugagan vaqt: 🕰 {u.Expired_time}\n\n"
             # print('-100' + kanal_id)
             kanal_id=int('100' + str(kanal_id.channel_id))
-
+            xabar = xabar + f"\nTest ishlagan tili: \n{u.language_code}"
             context.bot.send_message(chat_id=-kanal_id,
                                      text=msg + xabar)
 
