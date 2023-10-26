@@ -36,6 +36,7 @@ OLIMPIADA QUYIDAGI FANLARDAN BO‘LIB O‘TADI
 6.ONA TILI: @NDKTU_AL_ONATILI_OLIMPIADA_bot
 7.RUS TILI: @NDKTU_AL_RUSTILI_OLIMPIADA_bot
 8.KIMYO: @NDKTU_AL_KIMYO_OLIMPIADA_bot
+9.ENGLISH: @NDKTU_AL_ENGLISH_OLIMPIADA_bot
 
 🗺 Manzil:  Navoiy shahar G‘alaba shoh ko‘chasi 186-uy 
 ➡️ Mo'ljal: Yangi bozor yonginasida"""

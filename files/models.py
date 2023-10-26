@@ -18,3 +18,9 @@ class TestFile(models.Model):
     description=models.TextField(blank=True)
     def __str__(self):
         return f"{self.file_id[:5]} : {self.description[:5]}"
+
+class ChannelId(models.Model):
+    channel_id=models.CharField(max_length=16,blank=True)
+
+    def __str__(self):
+        return f"hozirgi channel id: {self.id}"
